@@ -7,9 +7,3 @@ export default {
   name: 'ElButtonMy2'
 };
 </script>
-
-<style>
-.color-style{
-  color: red;
-}
-</style>
