@@ -72,6 +72,10 @@
               "title": "Button 按钮"
             },
             {
+              "path": "/buttonMy",
+              "title": "ButtonMy 按钮"
+            },
+            {
               "path": "/link",
               "title": "Link 文字链接"
             }
@@ -311,6 +315,14 @@
             {
               "path": "/drawer",
               "title": "Drawer 抽屉"
+            },
+            {
+              "path": "/button-my2",
+              "title": "ButtonMy2"
+            },
+            {
+              "path": "/ButtonMy2",
+              "title": "Buttonmy2"
             }
           ]
         }
@@ -629,6 +641,14 @@
             {
               "path": "/statistic",
               "title": "Statistic"
+            },
+            {
+              "path": "/button-my2",
+              "title": "ButtonMy2"
+            },
+            {
+              "path": "/ButtonMy2",
+              "title": "Buttonmy2"
             }
           ]
         }
@@ -947,6 +967,14 @@
             {
               "path": "/statistic",
               "title": "Statistic"
+            },
+            {
+              "path": "/button-my2",
+              "title": "ButtonMy2"
+            },
+            {
+              "path": "/ButtonMy2",
+              "title": "Buttonmy2"
             }
           ]
         }
@@ -1265,6 +1293,14 @@
             {
               "path": "/statistic",
               "title": "Statistic"
+            },
+            {
+              "path": "/button-my2",
+              "title": "ButtonMy2"
+            },
+            {
+              "path": "/ButtonMy2",
+              "title": "Buttonmy2"
             }
           ]
         }

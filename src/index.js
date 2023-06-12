@@ -90,6 +90,7 @@ import Empty from '../packages/empty/index.js';
 import Descriptions from '../packages/descriptions/index.js';
 import DescriptionsItem from '../packages/descriptions-item/index.js';
 import Result from '../packages/result/index.js';
+import ButtonMy2 from '../packages/button-my2/index.js';
 import locale from 'i-element-ui/src/locale';
 import CollapseTransition from 'i-element-ui/src/transitions/collapse-transition';
 
@@ -179,6 +180,7 @@ const components = [
   Descriptions,
   DescriptionsItem,
   Result,
+  ButtonMy2,
   CollapseTransition
 ];
 
@@ -308,5 +310,6 @@ export default {
   Empty,
   Descriptions,
   DescriptionsItem,
-  Result
+  Result,
+  ButtonMy2
 };

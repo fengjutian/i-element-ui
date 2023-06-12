@@ -89,6 +89,8 @@ import { ElDescriptions } from './descriptions'
 import { ElDescriptionsItem } from './descriptions-item'
 import { ElResult } from './result'
 import { ElStatistic } from './statistic'
+import { ElButtonMy2 } from './button-my2'
+import { ElButtonmy2 } from './ButtonMy2'
 
 export interface InstallationOptions {
   locale: any,
@@ -380,3 +382,8 @@ export class Result extends ElResult {}
 
 /** Statistic Component */
 export class Statistic extends ElStatistic {}
+/** ButtonMy2 Component */
+export class ButtonMy2 extends ElButtonMy2 {}
+
+/** Buttonmy2 Component */
+export class Buttonmy2 extends ElButtonmy2 {}

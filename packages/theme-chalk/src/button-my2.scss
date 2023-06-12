@@ -1,0 +1,9 @@
+@import "mixins/mixins";
+@import "common/var";
+
+@include b(button-my2) {
+}
+
+.color-style{
+    color: green;
+  }

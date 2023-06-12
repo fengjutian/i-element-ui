@@ -1,4 +1,6 @@
 'use strict';
+// 创建新的组件 
+// 例如： make new button
 
 console.log();
 process.on('exit', () => {
