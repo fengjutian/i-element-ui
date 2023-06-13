@@ -91,6 +91,7 @@ import { ElResult } from './result'
 import { ElStatistic } from './statistic'
 
 import { ElButtonMy2 } from './button-my2'
+import { ElButtonMy3 } from './button-my3'
 
 export interface InstallationOptions {
   locale: any,
@@ -386,3 +387,6 @@ export class Statistic extends ElStatistic {}
 export class ButtonMy2 extends ElButtonMy2 {}
 
 
+
+/** ButtonMy3 Component */
+export class ButtonMy3 extends ElButtonMy3 {}

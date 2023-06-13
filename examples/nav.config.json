@@ -319,6 +319,10 @@
             {
               "path": "/button-my2",
               "title": "ButtonMy2"
+            },
+            {
+              "path": "/button-my3",
+              "title": "ButtonMy3"
             }
           ]
         }
@@ -641,6 +645,10 @@
             {
               "path": "/button-my2",
               "title": "ButtonMy2"
+            },
+            {
+              "path": "/button-my3",
+              "title": "ButtonMy3"
             }
           ]
         }
@@ -963,6 +971,10 @@
             {
               "path": "/button-my2",
               "title": "ButtonMy2"
+            },
+            {
+              "path": "/button-my3",
+              "title": "ButtonMy3"
             }
           ]
         }
@@ -1285,6 +1297,10 @@
             {
               "path": "/button-my2",
               "title": "ButtonMy2"
+            },
+            {
+              "path": "/button-my3",
+              "title": "ButtonMy3"
             }
           ]
         }

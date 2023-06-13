@@ -3,6 +3,8 @@
     <el-input v-model="input" placeholder="请输入内容"></el-input>
     <el-button-my type="primary">主要按钮</el-button-my>
     <el-button-my2 >主要按钮</el-button-my2>
+
+    <el-button-my3 >主要按钮</el-button-my3>
   </div>
 </template>
 

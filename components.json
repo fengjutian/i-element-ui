@@ -89,5 +89,6 @@
   "descriptions": "./packages/descriptions/index.js",
   "descriptions-item": "./packages/descriptions-item/index.js",
   "result": "./packages/result/index.js",
-  "button-my2": "./packages/button-my2/index.js"
+  "button-my2": "./packages/button-my2/index.js",
+  "button-my3": "./packages/button-my3/index.js"
 }
